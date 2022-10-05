@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ratsimbazafindranahaka-et-al-2022a
 excerpt: ''
 paperurl: 'https://www.ajol.info/index.php/wiojms/article/view/209962'
-citation: 'Ratsimbazafindranahaka, M. N., Razafimahatratra, E., Mathevet, R., Adam, O., Huetz, C., Charrier, I., Saloma, A. (2009). &quot;Morphometric study of humpback whale mother-calf pairs in the Sainte Marie channel, Madagascar, using a simple drone-based photogrammetric method&quot; <i>Western Indian Ocean Journal of Marine Science</i>, 20(2), 95-107.'
+citation: 'Ratsimbazafindranahaka, M. N., Razafimahatratra, E., Mathevet, R., Adam, O., Huetz, C., Charrier, I., Saloma, A. (2022). &quot;Morphometric study of humpback whale mother-calf pairs in the Sainte Marie channel, Madagascar, using a simple drone-based photogrammetric method&quot; <i>Western Indian Ocean Journal of Marine Science</i>, 20(2), 95-107.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
