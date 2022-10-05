@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Morphometric study of humpback whale mother-calf pairs in the Sainte Marie channel, Madagascar, using a simple drone-based photogrammetric method"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/ratsimbazafindranahaka-et-al-2022a
+excerpt: ''
+date: 2022-02-02
+venue: 'Western Indian Ocean Journal of Marine Science'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ratsimbazafindranahaka, M. N., Razafimahatratra, E., Mathevet, R., Adam, O., Huetz, C., Charrier, I., Saloma, A. (2009). &quot;Morphometric study of humpback whale mother-calf pairs in the Sainte Marie channel, Madagascar, using a simple drone-based photogrammetric method&quot; <i>Western Indian Ocean Journal of Marine Science</i>, 20(2), 95-107.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ratsimbazafindranahaka, M. N., Razafimahatratra, E., Mathevet, R., Adam, O., Huetz, C., Charrier, I., Saloma, A. (2009). "Morphometric study of humpback whale mother-calf pairs in the Sainte Marie channel, Madagascar, using a simple drone-based photogrammetric method" <i>Western Indian Ocean Journal of Marine Science</i>, 20(2), 95-107.
