@@ -17,5 +17,5 @@ I am a PhD candidate at the Paris Saclay University ([Acoustic communications te
 </p>
 
 <p align="center">
-<img width="460" height="300" src="/images/UPsaclay.png">
+<img width="147" height="50" src="/images/UPsaclay.png"> fdskglfdslgdss
 </p>
