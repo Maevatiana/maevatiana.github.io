@@ -32,7 +32,6 @@ Skills
 * Linguistic skills
   * Malagasy (Mother tongue). French (Second mother tongue). English (Good).
 * Informatic skills
-  * Microsoft Office
   * Programming/Signal processing: Matlab, Python, R
   * Infographics/3D modelling: Inkscape, Blender, ZBrush, Sculptris
   * GIS: QGIS, ArcGIS
