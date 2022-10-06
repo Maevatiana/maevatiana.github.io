@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Licence in Organisms and Ecosystems Biology, University of Antananarivo, 2016
@@ -38,6 +39,22 @@ Skills
 * Other skills
   * Professional drone pilot (Drone pilot Licence – France 2021)
 
+Extra-academical activities
+======
+* IT and logistics manager of the Association of Scientific Students of Antananarivo (FMSA), 2016-2017
+* Volunteer for the organization of the Mouse Lemur Workshop 2019 at the University of Antananarivo, 2019
+* Self-taught musician (Drummer)
+
+Academic awards
+======
+* Best student presentation award, 24th Biennial Conference on the Biology of Marine Mammals, Society for Marine Mammalogy, 2022
+* 2021 SMM Research grant, Society for Marine Mammalogy, 2021 <!-- 1400 USD-->
+* Marine Research Grant I, Western Indian Ocean Marine Science Association, 2021 <!-- 6890 USD-->
+* ATBC Seed Grant 2021, Association for Tropical Biology and Conservation, 2021 <!-- 1000 USD-->
+* ADI 2020 Scholarship, IDEX Paris Saclay, 2020 <!-- 18 months-->
+* IOC-UNESCO Travel grant, UNESCO’s Intergovernemental Oceanographic Commision, 2019 <!-- 1000 USD-->
+* Student Travel grant award, Society for Marine Mammalogy, 2019 <!-- 800 USD-->
+* WIOMSA travel grant, Western Indian Ocean Marine Science Association, 2019 <!-- 1000 USD-->
 
 <!-- Publications
 ======
