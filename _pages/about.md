@@ -19,6 +19,7 @@ I started to work on humpback whales in 2018 for my Master's degree. During this
 <br><br>
 
 {% include youtube.html id="a2jPOzNvIu0" %}
+<br><br>
 
 <p align="center">
 <b>Affiliations:</b>
