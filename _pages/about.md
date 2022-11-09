@@ -18,6 +18,8 @@ I started to work on humpback whales in 2018 for my Master's degree. During this
 ![Tagging](/images/pose.png)
 <br><br>
 
+{% include youtube.html id="a2jPOzNvIu0" %}
+
 <p align="center">
 <b>Affiliations:</b>
 </p>
