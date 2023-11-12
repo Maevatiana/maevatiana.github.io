@@ -49,6 +49,7 @@ Extra-academical activities
 * IT and logistics manager of the Association of Scientific Students of Antananarivo (FMSA) (2016-2017)
 * Volunteer for the organization of the Mouse Lemur Workshop 2019 at the University of Antananarivo (2019)
 * Self-taught musician (Drummer)
+* Digital artist
 
 Academic awards
 ======
