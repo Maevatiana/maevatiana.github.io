@@ -12,8 +12,10 @@ redirect_from:
 
 Education
 ======
-* 2023: PhD in Health and Life Sciences & Zoology (double degree), Paris Saclay University & University of Antananarivo
+* 2023: Ph.D. in Health and Life Sciences & Zoology (double degree), Paris Saclay University & University of Antananarivo
+  * Ph.D. project: « Humpback whale mother-calf interactions: investigating nursing, swimming, and vocal behaviors », supervised by Dr. Isabelle Charrier (DR, CNRS), Pr. Olivier Adam (Professor, Sorbonne University), Pr. Aristide Andrianarimisa (Professor, University of Antananarivo), and Dr. Chloé Huetz (Research engineer, Paris Saclay University)
 * 2019: Master of Science in Animal Biology and Conservation, University of Antananarivo
+  * Masters project: « Maternal dependence in humpback whale calves in the Sainte Marie channel: Insight into the morphometry and the swimming dynamics » (title translated from French), supervised by Dr. Emilienne Razafimahatratra (Lecturer, University of Antananarivo)
 * 2016: Licence in Organisms and Ecosystems Biology, University of Antananarivo
 
 Work experience
@@ -22,12 +24,12 @@ Work experience
   * Led the field team during the humpback whale tagging campaign of 2021-2023 in Sainte Marie, Madagascar
   * Trained a cohort of specialized whale-watching guides on marine mammal diversity (2022-2023)
 * 2022: Scientific Crew – Weddell Sea Scientific Mission, SEDNA
-  * Conducted visual and acoustic cetacean survey in the Weddell Sea, Antarctica (Team led by Pr. Olivier Adam)
+  * Conducted visual and acoustic cetacean survey in the Weddell Sea, Antarctica (Team led by Pr. Olivier Adam, Professor, Sorbonne University)
   * Participated in scientific mediation activities (oral presentations to tourists and young audiences)
 * 2020: Biologist Consultant in Batracology, Ecofauna Association
-  * Conducted rescue and monitoring missions of the endangered frogs Mantella spp. In Ambatovy, Madagascar (Team led by Dr. Fano Ratsoavina & Dr. Zafimahery Rakotomalala)
+  * Conducted rescue and monitoring missions of the endangered frogs Mantella spp. In Ambatovy, Madagascar (Team led by Dr. Fano Ratsoavina & Dr. Zafimahery Rakotomalala, Lecturers, University of Antananarivo)
 * 2018: Research Assistant in Mammalogy, Madagasikara Voakajy Association
-  * Inventoried the small mammals in the rainforest of Ambalaomby, Madagascar (Team led by Raphali R. Andriantsimanarilafy)
+  * Inventoried the small mammals in the rainforest of Ambalaomby, Madagascar (Team led by Raphali R. Andriantsimanarilafy, Project coordinator, Madagasikara Voakajy Association)
 * 2017-2019: Research Assistant in Cetology, Cétamada Association
   * Participated in various fieldworks in the Sainte Marie channel, Madagascar: humpback whale blow sampling, crossbow biopsy, song and video recordings, playback experiments, tagging, aerial monitoring by drone
   * Conducted a research project on mother-calf pairs in humpback whales (Master's thesis project)
