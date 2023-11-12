@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Health and Life Sciences & Zoology (double degree), Paris Saclay University & University of Antananarivo, 2023
-* Master of Science in Animal Biology and Conservation, University of Antananarivo, 2019
-* Licence in Organisms and Ecosystems Biology, University of Antananarivo, 2016
+* 2023: PhD in Health and Life Sciences & Zoology (double degree), Paris Saclay University & University of Antananarivo
+* 2019: Master of Science in Animal Biology and Conservation, University of Antananarivo
+* 2016: Licence in Organisms and Ecosystems Biology, University of Antananarivo
 
 Work experience
 ======
@@ -38,8 +38,8 @@ Skills
 * Linguistic skills
   * Malagasy (Mother tongue). French (Second mother tongue). English (Good).
 * Informatic skills
-  * Programming/Signal processing: Matlab, Python, R
-  * Infographics/3D modelling: Inkscape, Blender, ZBrush, Sculptris
+  * Programming/Signal Processing: Matlab, Python, R
+  * Infographics/3D modeling: Inkscape, Blender, ZBrush, Sculptris
   * GIS: QGIS, ArcGIS
 * Other skills
   * Professional drone pilot (Drone pilot Licence – France 2021)
