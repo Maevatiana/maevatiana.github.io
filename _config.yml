@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "RMaevatiana"
 title_separator          : "-"
-name                     : &name "Maevatiana N Ratsimbazafindranahaka"
+name                     : &name "Dr. Maevatiana N Ratsimbazafindranahaka, Ph.D."
 description              : &description "Zoologist/Marine Biologist"
 url                      : https://maevatiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maevatiana N Ratsimbazafindranahaka (He/Him)"
   avatar           : "profile.png"
-  bio              : "MSc in Zoology, Researcher/PhD Candidate <br> <br> Interested in Bioacoustics, Ethology, Marine Biology, Mammalogy, Conservation, Biologging, Signal Processing, Machine Learning, Biostatistics"
+  bio              : "MSc in Zoology, Ph.D. Candidate/Researcher <br> <br> Interested in Bioacoustics, Ethology, Marine Biology, Mammalogy, Conservation, Biologging, Signal Processing, Machine Learning, Biostatistics"
   location         : "France & Madagascar"
   employer         :
   pubmed           : 
