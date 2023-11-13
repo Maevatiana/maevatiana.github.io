@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* 2023: Ph.D. in Health and Life Sciences & Zoology (double degree), Paris Saclay University & University of Antananarivo
-  * Ph.D. project: « Humpback whale mother-calf interactions: investigating nursing, swimming, and vocal behaviors », supervised by Dr. Isabelle Charrier (DR, CNRS), Pr. Olivier Adam (Professor, Sorbonne University), Pr. Aristide Andrianarimisa (Professor, University of Antananarivo), and Dr. Chloé Huetz (Research engineer, Paris Saclay University)
+* 2023: Ph.D. in Health and Life Sciences & Zoology (double degree), Paris-Saclay University & University of Antananarivo
+  * Ph.D. project: « Humpback whale mother-calf interactions: investigating nursing, swimming, and vocal behaviors », supervised by Dr. Isabelle Charrier (DR, CNRS), Pr. Olivier Adam (Professor, Sorbonne University), Pr. Aristide Andrianarimisa (Professor, University of Antananarivo), and Dr. Chloé Huetz (Research engineer, Paris-Saclay University)
 * 2019: Master of Science in Animal Biology and Conservation, University of Antananarivo
   * Masters project: « Maternal dependence in humpback whale calves in the Sainte Marie channel: Insight into the morphometry and the swimming dynamics » (title translated from French), supervised by Dr. Emilienne Razafimahatratra (Lecturer, University of Antananarivo)
 * 2016: Licence in Organisms and Ecosystems Biology, University of Antananarivo
@@ -64,13 +64,13 @@ Academic awards
 * Student Travel grant award, Society for Marine Mammalogy, 2019 <!-- 800 USD-->
 * WIOMSA travel grant, Western Indian Ocean Marine Science Association, 2019 <!-- 1000 USD-->
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
