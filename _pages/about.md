@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently affiliated with the Paris Saclay University ([Acoustic communications team](https://www.cb.universite-paris-saclay.fr/), NeuroPSI) and the University of Antananarivo (Department of Zoology and Animal Biodiversity). My research interests include Bioacoustics, Ethology, Cognitive Science, Marine Biology, Conservation, Signal Processing, and Machine Learning. I am familiar with marine and terrestrial fieldwork, data analysis, and developing and implementing research tools. My current research project involves studying humpback whale mother-calf pairs' behaviors in the Sainte Marie channel, Madagascar, to understand mammalian mother-young interactions better in an aquatic context.
+I am currently working at the Paris-Saclay Institute of Neurosciences ([Acoustic communications team](https://www.cb.universite-paris-saclay.fr/), Université Paris-Saclay, CNRS). My research interests include Bioacoustics, Ethology, Cognitive Science, Marine Biology, Conservation, Signal Processing, and Machine Learning. I am familiar with marine and terrestrial fieldwork, data analysis, and developing and implementing research tools. My current research project involves studying humpback whale mother-calf pairs' behaviors in the Sainte Marie channel, Madagascar, to understand mammalian mother-young interactions better in an aquatic context.
 
 My work and research on humpback whales
 ====
